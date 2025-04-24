@@ -6,7 +6,6 @@
 
 📂 Category: File Handling, String Processing, Career Analysis
 
-🚀 Difficulty Level: Beginner to Intermediate
 
 ________________________________________
 📌 Project Overview
